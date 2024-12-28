@@ -1,7 +1,11 @@
 Hi, I’m Barış Birdal
+
 I am a 2nd year software engineering student at Istanbul Commerce University
+
 I’m interested in coding
+
 I’m currently learning python and java
+
 How to reach me: barisbirdal3@gmail.com
 
 <!---
